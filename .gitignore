@@ -1,0 +1,3 @@
+# Keep only the published pet package and QA artifacts in this repository.
+*.png
+*.tmp
