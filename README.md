@@ -9,11 +9,11 @@ Starflare is a custom Codex v2 pet based on the supplied lavender horned fox-dra
 - `running-left.gif` — repaired leftward movement preview.
 - `validation-extended.json` — final v2 atlas validation report.
 - `chroma-despill-extended.json` — transparency and chroma-edge cleanup report.
-- `running-left-stable-review.json` — frame-extraction diagnostics for the leftward-motion repair.
+- `running-left-mirror-review.json` — verification data for the direct framewise-mirror repair.
 
 ## Repair
 
-The original leftward movement used independently fitted frame extraction, making the vertical crop position jump across the loop. The repair re-extracts that row using stable source slots so the full row shares one registration basis while preserving the original gait.
+The original leftward movement contained generated-strip discontinuities. The repair mirrors the already validated final rightward frames one by one, so the leftward loop has exactly the same registration, cadence, scale, and complete silhouette as the rightward loop.
 
 ## Install
 
