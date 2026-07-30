@@ -1,6 +1,6 @@
 # Starflare — Codex Pet
 
-Starflare is a custom Codex v2 pet based on the supplied lavender horned fox-dragon OC.
+Starflare is a custom Codex v2 pet based on the supplied lavender horned wolf-dragon OC.
 
 <p align="center">
   <img src="running-left.gif" alt="Starflare running-left animation preview" width="420">
@@ -15,7 +15,7 @@ Starflare is a custom Codex v2 pet based on the supplied lavender horned fox-dra
   <img src="previews/running-left-06.png" alt="Starflare running-left frame 7" width="150">
 </p>
 
-逐帧镜像修复后的向左奔跑动作：完整轮廓、统一重心，并保留 Starflare 的蓬松尾焰与异色瞳。
+逐帧镜像修复后的向左奔跑动作：完整轮廓、统一重心，并保留 Starflare 的蓬松尾焰与异色瞳孔。
 
 ## Contents
 
